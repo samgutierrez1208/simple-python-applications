@@ -8,7 +8,7 @@ Welcome to the **Simple Python Examples** repository! 🎉 This repository is de
 
 This repository features a curated selection of beginner-friendly Python projects, designed to help new programmers grasp fundamental concepts through practical examples. The projects range from simple number games and calculators to more complex logic-based applications, each showcasing important Python features such as conditionals, loops, functions, and string manipulation. Each project is available both as source code and executable .exe files, allowing you to either run them directly or explore the inner workings of the code.
 
-### 🌟 Featured Projects (First Release)
+### 🌟 Featured Projects
 
 1. **Calculator** 🧮  
    A scientific calculator that performs advanced arithmetic operations like trigonometry, exponentiation, and logarithmic functions, in addition to basic operations (addition, subtraction, multiplication, and division).
@@ -25,19 +25,33 @@ This repository features a curated selection of beginner-friendly Python project
 5. **Rock Paper Scissors** ✊✋✌  
    The classic game where the user plays against the computer. The computer randomly selects rock, paper, or scissors, and the user tries to beat the computer’s choice.
 
+6. **Password Generator** 🔐  
+   Generates secure, random passwords based on user-defined criteria (length, use of special characters, etc.).
+
+7. **Word Counter** 📝  
+   A tool that counts the number of words, characters, and sentences in a given text input.
+
+8. **Number Guessing Game** 🎯  
+   A fun game where the user tries to guess a randomly generated number within a specific range.
+
+9. **To-Do List** ✅  
+   A basic to-do list app where users can add, remove, and mark tasks as complete.
+
+10. **Simple Agenda** 📅  
+   A simple agenda application to keep track of events or tasks with dates.
+
+11. **Palindrome Checker** 🔄  
+   Checks if a word, phrase, or number is a palindrome. It can also scan a list of inputs to identify palindromes.
+
+12. **Date Difference Calculator** 🕰  
+   Calculates the difference between two dates in terms of days, months, and years.
+
 ### 🖥️ Download & Run
 
 Each of the above projects is available as an `.exe` file. You can download and run them directly on your system without any additional setup.
 
 ## 🔜 Upcoming Projects
 
-- **Password Generator** 🔐  
-- **Word Counter** 📝  
-- **Number Guessing Game** 🎯  
-- **To-Do List** ✅  
-- **Simple Agenda** 📅  
-- **Palindrome Checker** 🔄  
-- **Date Difference Calculator** 🕰  
 - **Snake Game** 🐍  
 - **Hangman Game** 💀  
 - **Clock Date App** ⏰  
@@ -78,4 +92,11 @@ simple-python-examples/
 ├── fibonacci_game.py
 ├── prime_number_game.py
 ├── rock_paper_scissors.py
+├── password_generator.py
+├── word_counter.py
+├── number_guessing_game.py
+├── todo_list.py
+├── simple_agenda.py
+├── palindrome_checker.py
+├── date_difference_calculator.py
 ```
