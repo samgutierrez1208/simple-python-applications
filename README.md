@@ -31,27 +31,27 @@ Each of the above projects is available as an `.exe` file. You can download and 
 
 ## 🔜 Upcoming Projects
 
-Password Generator 🔐
-Word Counter 📝
-Number Guessing Game 🎯
-To-Do List ✅
-Simple Agenda 📅
-Palindrome Checker 🔄
-Date Difference Calculator 🕰
-Snake Game 🐍
-Hangman Game 💀
-Clock Date App ⏰
-Grade Average Calculator 📊
-Course Schedule 📚
-ATM App 🏦
-City Info Checker 🌆
-Caesar Cipher 🔏
+- **Password Generator** 🔐  
+- **Word Counter** 📝  
+- **Number Guessing Game** 🎯  
+- **To-Do List** ✅  
+- **Simple Agenda** 📅  
+- **Palindrome Checker** 🔄  
+- **Date Difference Calculator** 🕰  
+- **Snake Game** 🐍  
+- **Hangman Game** 💀  
+- **Clock Date App** ⏰  
+- **Grade Average Calculator** 📊  
+- **Course Schedule** 📚  
+- **ATM App** 🏦  
+- **City Info Checker** 🌆  
+- **Caesar Cipher** 🔏  
 
 Stay tuned for future updates as these projects are rolled out!
 
 ## 🛠️ Running the Source Code
 
-If you'd like to run the projects from source, you can still clone the repository and run the scripts using Python 3.9+.
+If you'd like to run the projects from source, you can still clone the repository and run the scripts using Python 3.9+. If you don’t have Python installed, you can download it [here](https://www.python.org/downloads/).
 
 1. Clone the repository:
     ```bash
