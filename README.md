@@ -1,8 +1,8 @@
-# 📚 Simple Python Examples
+# 📚 Simple Python Applications
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-green.svg)
 
-Welcome to the **Simple Python Examples** repository! 🎉 This repository is designed for Python beginners looking to improve their programming skills through practical examples and hands-on practice. Whether you're learning the basics or working on small projects, this is the perfect place to start.
+Welcome to the **Simple Python Applications** repository! 🎉 This repository is designed for Python beginners looking to improve their programming skills through practical examples and hands-on practice. Whether you're learning the basics or working on small projects, this is the perfect place to start.
 
 ## 🚀 What's Inside?
 
@@ -69,12 +69,12 @@ If you'd like to run the projects from source, you can still clone the repositor
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aslihanzehradonmez/simple-python-examples.git
+    git clone https://github.com/aslihanzehradonmez/simple-python-applications.git
     ```
 
 2. Navigate to the project folder:
     ```bash
-    cd simple-python-examples
+    cd simple-python-applications
     ```
 
 3. Run any Python script:
@@ -85,7 +85,7 @@ If you'd like to run the projects from source, you can still clone the repositor
 ## 📄 Project Structure
 
 ```
-simple-python-examples/
+simple-python-applications/
 │
 ├── calculator.py
 ├── odd_even_checker.py
