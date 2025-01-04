@@ -1,0 +1,130 @@
+Istanbul, Turkey
+Berlin, Germany
+Tokyo, Japan
+Paris, France
+New York, USA
+Cairo, Egypt
+Mumbai, India
+Sydney, Australia
+Moscow, Russia
+Rio de Janeiro, Brazil
+London, United Kingdom
+Beijing, China
+Seoul, South Korea
+Madrid, Spain
+Rome, Italy
+Toronto, Canada
+Mexico City, Mexico
+Buenos Aires, Argentina
+Jakarta, Indonesia
+Bangkok, Thailand
+Lagos, Nigeria
+Tehran, Iran
+Cape Town, South Africa
+Singapore, Singapore
+Baghdad, Iraq
+Athens, Greece
+Kabul, Afghanistan
+Warsaw, Poland
+Havana, Cuba
+Manila, Philippines
+Vienna, Austria
+Lisbon, Portugal
+Oslo, Norway
+Stockholm, Sweden
+Helsinki, Finland
+Copenhagen, Denmark
+Brussels, Belgium
+Bern, Switzerland
+Ankara, Turkey
+Damascus, Syria
+Riyadh, Saudi Arabia
+Islamabad, Pakistan
+Dhaka, Bangladesh
+Nairobi, Kenya
+Kuala Lumpur, Malaysia
+Caracas, Venezuela
+Santiago, Chile
+Lima, Peru
+Bogotá, Colombia
+Quito, Ecuador
+Asunción, Paraguay
+Montevideo, Uruguay
+Brasília, Brazil
+Suva, Fiji
+Honiara, Solomon Islands
+Port Moresby, Papua New Guinea
+Noumea, New Caledonia
+Wellington, New Zealand
+Canberra, Australia
+Jakarta, Indonesia
+Bangkok, Thailand
+Beirut, Lebanon
+Doha, Qatar
+Abu Dhabi, UAE
+Dubai, UAE
+Muscat, Oman
+Amman, Jordan
+Kuwait City, Kuwait
+Manama, Bahrain
+Rabat, Morocco
+Algiers, Algeria
+Tunis, Tunisia
+Tripoli, Libya
+Pretoria, South Africa
+Harare, Zimbabwe
+Lusaka, Zambia
+Windhoek, Namibia
+Gaborone, Botswana
+Maputo, Mozambique
+Antananarivo, Madagascar
+Luanda, Angola
+Kinshasa, DR Congo
+Addis Ababa, Ethiopia
+Khartoum, Sudan
+Yaoundé, Cameroon
+Abuja, Nigeria
+Accra, Ghana
+Dakar, Senegal
+Conakry, Guinea
+Bamako, Mali
+Ouagadougou, Burkina Faso
+Freetown, Sierra Leone
+Monrovia, Liberia
+Banjul, Gambia
+Rabat, Morocco
+Casablanca, Morocco
+Tangier, Morocco
+Fez, Morocco
+Marrakech, Morocco
+Agadir, Morocco
+Tétouan, Morocco
+Essaouira, Morocco
+Meknes, Morocco
+Oujda, Morocco
+Errachidia, Morocco
+Nador, Morocco
+Al Hoceima, Morocco
+Kénitra, Morocco
+Salé, Morocco
+Temara, Morocco
+Tiznit, Morocco
+Chefchaouen, Morocco
+Tarfaya, Morocco
+Laayoune, Western Sahara
+Dakhla, Western Sahara
+Nouakchott, Mauritania
+Bissau, Guinea-Bissau
+Niamey, Niger
+N'Djamena, Chad
+Libreville, Gabon
+Porto-Novo, Benin
+Lomé, Togo
+Cotonou, Benin
+Malabo, Equatorial Guinea
+Moroni, Comoros
+Victoria, Seychelles
+Port Louis, Mauritius
+Djibouti, Djibouti
+Asmara, Eritrea
+Mogadishu, Somalia
