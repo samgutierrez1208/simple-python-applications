@@ -6,11 +6,11 @@ Welcome to the **Simple Python Applications** repository! 🎉 This repository i
 
 ## 🚀 What's Inside?
 
-This repository features a curated selection of beginner-friendly Python projects, designed to help new programmers grasp fundamental concepts through practical examples. The projects range from simple number games and calculators to more complex logic-based applications, each showcasing important Python features such as conditionals, loops, functions, and string manipulation. Each project is available both as source code and executable .exe files, allowing you to either run them directly or explore the inner workings of the code.
+This repository features a curated selection of beginner-friendly Python projects, designed to help new programmers grasp fundamental concepts through practical examples. The projects range from simple number games and calculators to more complex logic-based applications, each showcasing important Python features such as conditionals, loops, functions, and string manipulation. Each project is available both as source code and executable `.exe` files, allowing you to either run them directly or explore the inner workings of the code.
 
 ### 🌟 Featured Projects
 
-1. **Calculator** 🧮  
+1. **Calculator** 🫤  
    A scientific calculator that performs advanced arithmetic operations like trigonometry, exponentiation, and logarithmic functions, in addition to basic operations (addition, subtraction, multiplication, and division).
 
 2. **Odd Even Checker** 🔢  
@@ -46,24 +46,35 @@ This repository features a curated selection of beginner-friendly Python project
 12. **Date Difference Calculator** 🕰  
    Calculates the difference between two dates in terms of days, months, and years.
 
-### 🖥️ Download & Run
+13. **Snake Game** 🐍  
+   A simple implementation of the classic snake game.
+
+14. **Hangman Game** 💀  
+   A guessing game where the player attempts to figure out a word by guessing one letter at a time.
+
+15. **Clock Date App** ⏰  
+   An app that displays the current time and date with customizable options.
+
+16. **Grade Average Calculator** 📊  
+   Helps students calculate their grade averages based on inputs for assignments, exams, and other tasks.
+
+17. **Course Schedule** 📚  
+   A simple tool to manage and keep track of course schedules.
+
+18. **ATM App** 🏦  
+   A basic banking simulation application where users can deposit, withdraw, and check balances.
+
+19. **City - Country Quiz** 🌆  
+   A game where users find matches between different cities around the world and their countries.
+
+21. **Caesar Cipher** 🔏  
+   A tool for encrypting and decrypting text using the Caesar cipher method.
+
+### 🔢️ Download & Run
 
 Each of the above projects is available as an `.exe` file. You can download and run them directly on your system without any additional setup.
 
-## 🔜 Upcoming Projects
-
-- **Snake Game** 🐍  
-- **Hangman Game** 💀  
-- **Clock Date App** ⏰  
-- **Grade Average Calculator** 📊  
-- **Course Schedule** 📚  
-- **ATM App** 🏦  
-- **City Info Checker** 🌆  
-- **Caesar Cipher** 🔏  
-
-Stay tuned for future updates as these projects are rolled out!
-
-## 🛠️ Running the Source Code
+## 🔧 Running the Source Code
 
 If you'd like to run the projects from source, you can still clone the repository and run the scripts using Python 3.9+. If you don’t have Python installed, you can download it [here](https://www.python.org/downloads/).
 
@@ -82,7 +93,7 @@ If you'd like to run the projects from source, you can still clone the repositor
     python3 project_name.py
     ```
 
-## 📄 Project Structure
+## 🔠 Project Structure
 
 ```
 simple-python-applications/
@@ -99,4 +110,14 @@ simple-python-applications/
 ├── simple_agenda.py
 ├── palindrome_checker.py
 ├── date_difference_calculator.py
+├── snake_game.py
+├── hangman_game.py
+├── clock_date_app.py
+├── grade_average_calculator.py
+├── course_schedule.py
+├── atm_app.py
+├── city_info_checker.py
+├── caesar_cipher.py
 ```
+
+This repository is perfect for beginners aiming to enhance their skills through practical coding examples. Happy coding! 🚀
