@@ -55,19 +55,16 @@ This repository features a curated selection of beginner-friendly Python project
 15. **Clock Date App** ⏰  
    An app that displays the current time and date with customizable options.
 
-16. **Grade Average Calculator** 📊  
-   Helps students calculate their grade averages based on inputs for assignments, exams, and other tasks.
-
-17. **Course Schedule** 📚  
+16. **Course Schedule** 📚  
    A simple tool to manage and keep track of course schedules.
 
-18. **ATM App** 🏦  
+17. **ATM App** 🏦  
    A basic banking simulation application where users can deposit, withdraw, and check balances.
 
-19. **City - Country Quiz** 🌆  
+18. **City - Country Quiz** 🌆  
    A game where users find matches between different cities around the world and their countries.
 
-21. **Caesar Cipher** 🔏  
+19. **Caesar Cipher** 🔏  
    A tool for encrypting and decrypting text using the Caesar cipher method.
 
 ### 🔢️ Download & Run
@@ -113,7 +110,6 @@ simple-python-applications/
 ├── snake_game.py
 ├── hangman_game.py
 ├── clock_date_app.py
-├── grade_average_calculator.py
 ├── course_schedule.py
 ├── atm_app.py
 ├── city_info_checker.py
