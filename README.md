@@ -112,7 +112,7 @@ simple-python-applications/
 ├── clock_date_app.py
 ├── course_schedule.py
 ├── atm_app.py
-├── city_info_checker.py
+├── city_country_quiz.py
 ├── caesar_cipher.py
 ```
 
